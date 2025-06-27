@@ -15,7 +15,7 @@ FER2013-style dataset:
 - Folder: `archive/train` and `archive/test`
 - Each subfolder contains images of one emotion label
 
-**[Download dataset](#)** (replace this with Google Drive or Kaggle link)
+🔗 FER-2013 – Kaggle DATASET
 
 ## 📊 Model Accuracy
 
